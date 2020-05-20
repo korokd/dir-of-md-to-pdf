@@ -1,0 +1,22 @@
+{
+  "name": "mmd-to-pdf",
+  "version": "0.1.0",
+  "description": "Merge multiple Markdowns into a single PDF",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "pdf",
+    "cli"
+  ],
+  "author": "Diogo Korok <korokd@protonmail.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "md-to-pdf": "^3.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
